@@ -32,11 +32,15 @@ $ npm install
 
 ### Required-to-run
 
-```bash
-# development
-$ npm run start:dev
+> development
 
-# production mode
+```shell
+$ npm run start:dev
+```
+
+> production mode
+
+```shell
 $ npm run start:prod
 ```
 
